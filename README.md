@@ -32,7 +32,12 @@ PHP, HTML, CSS, JAVASCRIPT and some frameworks, such as: Bootstrap and
 Jquery. Other than that, I have my personal projects, I'm currently creating
 a battleship game.</p>
 
-<h1> 📫 How to reach me:</h1>
- <p><b> my email: </b>giovanna.cruz2004@gmail.com</p>
- <p> <b>my professional instagram: </b> @giovannadev_</p>
+<h1> 📫 Contact</h1>
+
+ <div>
+
+<a href="https://instagram.com/giovannadev_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:giovanna.cruz2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/giovanna-cruz-21a0221b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
