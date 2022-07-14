@@ -1,12 +1,19 @@
-### Hi there 👋
+### HI, DEV 👋
+
+<h1>About me</h1>
+<ul>
+  <li>I'm Giovanna, welcome to my profile!</li>
+  <li>I have 18 years</li>
+  <li>I work at the Multinacional TIVIT as an intern in the back end area</li>
+
+</ul>
 
 <h1>Work</h1>
   
-<p>🔭 I’m currently working on the multinational TIVIT
-as an intern in the back end area. There I develop all
-kinds of programs to train logic, such as: sorting algorithms,
-data structure, basic systems and games. I also play with a
-little artificial intelligence and cloud computing.</p>
+<p>🔭 I develop all kinds of programs to train logic, such as:
+sorting algorithms, data structure, basic systems and games. 
+I also play with a little artificial intelligence and cloud 
+computing.</p>
 
 <h1>Study</h1>
 <p>- 🌱 I’m currently using the Java programming language
@@ -25,12 +32,7 @@ PHP, HTML, CSS, JAVASCRIPT and some frameworks, such as: Bootstrap and
 Jquery. Other than that, I have my personal projects, I'm currently creating
 a battleship game.</p>
 
-<h1>Where I look for help</h1>
-<p>- 🤔 I look for help with my boss, who is an excellent software architect, 
-with my friends from the course and especially in video classes on YouTube,
-where I take courses and research about doubts that arise.</p>
-
 <h1> 📫 How to reach me:</h1>
- <p><b> my email:</b>giovanna.cruz2004@gmail.com</p>
- <p> <b>my professional instagram:</b> @giovannadev_</p>
+ <p><b> my email: </b>giovanna.cruz2004@gmail.com</p>
+ <p> <b>my professional instagram: </b> @giovannadev_</p>
 
