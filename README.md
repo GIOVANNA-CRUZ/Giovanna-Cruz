@@ -32,6 +32,12 @@ PHP, HTML, CSS, JAVASCRIPT and some frameworks, such as: Bootstrap and
 Jquery. Other than that, I have my personal projects, I'm currently creating
 a battleship game.</p>
 
+<div>
+<a href="https://github.com/GIOVANNA-CRUZ">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIOVANNA-CRUZ&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GIOVANNA-CRUZ-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <h1> 📫 Contact</h1>
 
  <div>
