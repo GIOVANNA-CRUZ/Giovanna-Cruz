@@ -31,6 +31,6 @@ with my friends from the course and especially in video classes on YouTube,
 where I take courses and research about doubts that arise.</p>
 
 <h1> 📫 How to reach me:</h1>
- <p> my email: giovanna.cruz2004@gmail.com
-  my professional instagram: @giovannadev_</p>
+ <p><b> my email:</b>giovanna.cruz2004@gmail.com</p>
+ <p> <b>my professional instagram:</b> @giovannadev_</p>
 
