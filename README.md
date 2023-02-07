@@ -3,8 +3,8 @@
 <h1>About me</h1>
 <ul>
   <li>I'm Giovanna, welcome to my profile!</li>
-  <li>I have 18 years</li>
-  <li>I work at the Multinacional TIVIT as an intern in the back end area</li>
+  <li>I have 19 years</li>
+  <li>I work at the Multinacional TIVIT as an T.I Assistant at the SAP support.</li>
 
 </ul>
 
@@ -26,11 +26,10 @@ use, such as: HTTP/HTTPS, SSH and servers, such as Proxy, FTP,
 DNS and others.</p>
 
 <h1>Collaborate</h1>
-<p>- 👯 I’m looking to collaborate in my TCC project, where I'm 
-creating a makeup store this year. I used the following technologies:
+<p>- 👯 I collaborate in my TCC project, where I
+create a makeup store. I used the following technologies:
 PHP, HTML, CSS, JAVASCRIPT and some frameworks, such as: Bootstrap and 
-Jquery. Other than that, I have my personal projects, I'm currently creating
-a battleship game.</p>
+Jquery.</p>
 
 <div>
 <a href="https://github.com/GIOVANNA-CRUZ">
